@@ -1,0 +1,6 @@
+@CurriculumChatAPI_HostAddress = http://localhost:5058
+
+GET {{CurriculumChatAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

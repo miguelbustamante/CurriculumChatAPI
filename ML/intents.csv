@@ -1,0 +1,7 @@
+Text,Intent
+"What is your name?",GetName
+"Tell me about your education",GetEducation
+"What projects have you done?",GetProjects
+"What is your experience?",GetExperience
+"What skills do you have?",GetSkills
+"Hello",GetName

@@ -1,0 +1,62 @@
+{
+  "name": "Miguel Alfonso Bustamante Sanchez",
+  "summary": "Experienced Senior Full Stack Engineer with a strong background in C#, .NET, React, and TypeScript. Proven track record in leading growth-oriented projects, optimizing user experiences, and enhancing operational efficiency through innovative solutions. Skilled in AWS infrastructure deployment, real-time data processing, and cross-functional team collaboration. Fluent in both Spanish and English.",
+  "contact": {
+    "email": "miguel_bustamante_84@outlook.com",
+    "phone": "+502 3071 6777",
+    "linkedIn": "https://www.linkedin.com/in/miguelalfonsobustamantesanchez/"
+  },
+  "education": [
+    {
+      "degree": "MBA in Big Data & Business",
+      "university": "IEBS Biztech School",
+      "year": "2023-2025"
+    },
+    {
+      "degree": "Systems Engineering",
+      "university": "Universidad Mesoamericana Sede Quetzaltenango",
+      "year": "2009-2014"
+    }
+  ],
+  "workExperience": [
+    {
+      "title": "Senior Full Stack Engineer",
+      "company": "Freelance",
+      "duration": "2024-Present",
+      "description": "Led growth-oriented projects using React, TypeScript, Node.js, and .NET Core, delivering scalable solutions like Nohra, an overtime tracking app for 10+ clients across 5 countries, and TravelExpense, a React PWA with offline-first GraphQL APIs, reducing admin time by 25%. Built Visual Center, a real-time dashboard with WebSocket, cutting API failure resolution by 50%. Deployed AWS infrastructure with Terraform and Kubernetes, enhancing legacy integrations. Optimized UX with A/B testing, boosting engagement by 30% and retention by 15%. Collaborated via Microsoft Teams for iterative planning."
+    },
+    {
+      "title": "Customer Support Manager",
+      "company": "Aseinfo",
+      "duration": "2022-2024",
+      "description": "Spearheaded regional support operations across 5 countries, reducing response time variance by 35% through process optimization and cross-team collaboration, while fostering an inclusive team environment by recruiting and training 10+ members, boosting customer satisfaction from 52% to 75%. Developed a C# application to automate 200+ monthly ticket syncs between Zoho Desk and CRM, enhancing data accuracy. Created Power BI dashboards tracking 7 KPIs for executive reviews. Utilized Asana and Jira for task and project management, and Microsoft Teams with integrated M365 tools for real-time collaboration, streamlined documentation, and automated workflows for escalations and SLA tracking."
+    },
+    {
+      "title": "Project Manager",
+      "company": "Aseinfo",
+      "duration": "2017-2022",
+      "description": "In Panama, where I relocated and lived, I led the implementation of Evolution software for multiple clients, coordinating all project phases from requirements gathering to go-live. I managed full project control, applying best practices in risk management, stakeholder communication, and maintaining the project triangle (scope, time, cost). I closed system functionality gaps by developing custom SQL objects, including stored procedures, views, and T-SQL functions, ensuring compatibility with system logic. I ensured technical solutions met security, performance, and optimization standards, minimizing core system impacts. I conducted impact analyses and integrity validations pre-deployment to ensure production stability. I collaborated with clients’ functional and technical teams to validate deliverables and tailor payroll, HR, and accounting configurations to local regulations. I documented processes, scripts, and customizations for knowledge transfer and post-implementation support. Acting as a bridge between technical teams and clients, I translated requirements into sustainable solutions. Additionally, I leveraged C# and .NET skills to address country-specific payment nuances in Evolution, enhancing software flexibility and functionality for local needs."
+    }
+  ],
+  "languages": [
+    {
+      "languageName": "Spanish",
+      "proficiency": "Native"
+    },
+    {
+      "languageName": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "skills": ["C#", ".NET", "React", "TypeScript", "SQL", 
+    "T-SQL", "Node.js", "GraphQL", "AWS", "Azure", 
+    "PL/SQL", "WebSocket", "A/B Testing", ".NET Core",
+    "Agile Methodologies", "Microsoft Suite"],
+  "projects": [
+    {
+      "name": "NHora",
+      "description": "An overtime tracking app designed to streamline time management for businesses, allowing employees to log overtime hours and managers to approve them efficiently.",
+      "technologies": ["React", "TypeScript", ".NET Core"]
+    }
+  ]
+}
