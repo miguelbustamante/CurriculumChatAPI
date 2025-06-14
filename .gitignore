@@ -1,0 +1,50 @@
+## Ignore build and publish outputs
+bin/
+obj/
+out/
+publish/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## IDE-specific
+.vscode/
+.vs/
+
+## ASP.NET Core secrets and settings
+secrets.json
+appsettings.Development.json
+
+## Dependency caches
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+
+## Logs
+*.log
+logs/
+
+## OS-generated files
+Thumbs.db
+.DS_Store
+
+## ML.NET model files
+*.zip
+
+## Local data files
+*.db
+*.sqlite
+*.bak
+
+## Ignore Rider-specific
+.idea/
+*.sln.iml
+
+## Ignore test results
+TestResults/
+*.coverage
+*.coveragexml
